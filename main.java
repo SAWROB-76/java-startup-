@@ -1,5 +1,8 @@
-public class Main{
-    public static void main (String[] args){
-        System.out.println("");
-}
+class main
+{
+    public static void main(String a[])
+    {
+        int num = 1536410;
+        System.out.println(num);
+    }
 }
